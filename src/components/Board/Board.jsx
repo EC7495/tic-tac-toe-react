@@ -11,3 +11,5 @@ const Board = () => (
 );
 
 export default Board;
+
+// make some changes
